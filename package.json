@@ -1,0 +1,34 @@
+{
+  "name": "tao-translations-merge",
+  "version": "1.0.0",
+  "description": "Compare, diff and merge *.PO files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oat-sa/tao-translations-merge.git"
+  },
+  "author": "Ricardo Proença <ricardo@taotesting.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oat-sa/tao-translations-merge/issues"
+  },
+  "homepage": "https://github.com/oat-sa/tao-translations-merge#readme",
+  "engine": {
+    "node": ">=8.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "fs-extra": "^8.0.1",
+    "inquirer": "^6.3.1",
+    "minimist": "^1.2.0",
+    "octonode": "^0.9.5",
+    "open": "^6.3.0",
+    "simple-git": "^1.113.0"
+  }
+}
