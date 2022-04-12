@@ -29,6 +29,6 @@
     "minimist": "^1.2.0",
     "octonode": "^0.9.5",
     "open": "^6.3.0",
-    "simple-git": "^1.113.0"
+    "simple-git": "^3.5.0"
   }
 }
